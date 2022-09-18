@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomir Domanski</h1>
 <h3 align="center">A passionate Python developer from Poland</h3>
 
-- 🔭 I’m currently working on **:snake: Kicked Rotators simulating Cardiorespiratory System**
+- 🔭 I’m currently working on **:snake: Kicked Rotators simulating Cardiorespiratory System** :snake:
 
 - 🌱 I’m currently learning **PyQt**
 

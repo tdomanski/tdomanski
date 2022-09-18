@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Machine Learning**
 
-- 📫 How to reach me [**Facebook**](www.facebook.com/tomdomers)
+- 📫 How to reach me [**Facebook**](http://www.facebook.com/tomdomers)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

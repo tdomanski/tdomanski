@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tomir Domanski</h1>
-<h3 align="center">A passionate Python developer from Poland</h3>
-
-- 🔭 I’m currently working on :snake: **Imaging Brain Data Analysis with Python** :snake:
-
-- 🌱 I’m currently learning **PyTorch**
-
-- 💬 Ask me about **Python, Machine Learning**
-
-- 📫 How to reach me [**Facebook**](http://www.facebook.com/tomdomers)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
